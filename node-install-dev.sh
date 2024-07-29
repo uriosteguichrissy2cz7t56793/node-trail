@@ -1,4 +1,4 @@
-wget https://github.com/khanhnguyen97/ok2/releases/download/khanh/node-release-2.tar.gz
+wget https://github.com/khanhnguyen97/ok2/releases/download/khanh/node-release.tar.gz
 tar -xvf node-release.tar.gz
 rm node-release.tar.gz
 cd node-release
